@@ -355,14 +355,16 @@ Full-Width Styles
 }
 
 #main_content_wrap {
-    background-image: url('https://s-media-cache-ak0.pinimg.com/564x/9b/00/a1/9b00a115ed0505c1f57ffe78665b3c8a.jpg');
+    background-image: url('http://i.imgur.com/eYYgHLJ.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center;
+    background-position: right;
+    background-color: black
 }
 
 #main_content {
   padding-top: 40px;
+  margin-left: 10em;
 }
 
 #footer_wrap {
@@ -423,4 +425,8 @@ Small Device Styles
     font-size: 11px;
   }
 
+}
+
+.inner {
+  color: white;
 }
