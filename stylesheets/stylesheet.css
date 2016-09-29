@@ -430,3 +430,8 @@ Small Device Styles
 .inner {
   color: white;
 }
+
+#app_form {
+  border: 2px;
+  border-radius: 50px;
+}
