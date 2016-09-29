@@ -435,3 +435,13 @@ Small Device Styles
   border: 2px;
   border-radius: 50px;
 }
+
+.crawl-title {
+  font-family: STARWARS, Helvetica;
+  color: lightblue;
+}
+
+.crawl-text {
+  font-family: STARWARS, Helvetica;
+  color: #ffff50;
+}
