@@ -355,9 +355,10 @@ Full-Width Styles
 }
 
 #main_content_wrap {
-  background: #f2f2f2;
-  border-top: 1px solid #111;
-  border-bottom: 1px solid #111;
+    background-image: url('https://s-media-cache-ak0.pinimg.com/564x/9b/00/a1/9b00a115ed0505c1f57ffe78665b3c8a.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 #main_content {
