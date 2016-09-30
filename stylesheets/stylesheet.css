@@ -445,3 +445,8 @@ Small Device Styles
   font-family: STARWARS, Helvetica;
   color: #ffff50;
 }
+
+.navbar-fixed-top {
+  background-color: white;
+  border-bottom: 1px solid #a3a3a3
+}
