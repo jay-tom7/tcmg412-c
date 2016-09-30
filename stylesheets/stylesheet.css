@@ -74,7 +74,7 @@ h1 {
 h2 {
   padding-bottom: 10px;
   font-size: 32px;
-  background: url('../images/bg_hr.png') repeat-x bottom;
+  /* background: url('../images/bg_hr.png') repeat-x bottom; */
 }
 
 h3 {
@@ -444,6 +444,7 @@ Small Device Styles
 .crawl-text {
   font-family: STARWARS, Helvetica;
   color: #ffff50;
+  padding-bottom: 150px;
 }
 
 .navbar-fixed-top {
